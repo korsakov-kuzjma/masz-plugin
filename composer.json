@@ -1,0 +1,15 @@
+{
+    "name": "kkorsakov/masz-plugin",
+    "autoload": {
+        "psr-4": {
+            "Kkorsakov\\MaszPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "korsakov-kuzjma",
+            "email": "korsakov.kuzjma@gmail.com"
+        }
+    ],
+    "require": {}
+}
